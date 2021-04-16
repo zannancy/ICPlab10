@@ -1,4 +1,5 @@
-Result after running the code in the terminal.
+Result after running the makefile in the terminal:
+
 Selected Line: 0
 Point IDs: 0  0
 Coordinates: (0,0) , (0,0) 
